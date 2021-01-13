@@ -5,3 +5,7 @@ stats
 
 venv
 __pycache__
+
+*.png
+*.pt
+*.npz
